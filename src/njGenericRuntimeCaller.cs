@@ -1,4 +1,12 @@
-﻿using System;
+﻿/***********************************************************/
+/* NJAGE Engine - .NET Core Internals                      */
+/*                                                         */
+/* Copyright 2020 Marcel Bulla. All rights reserved.       */
+/* Licensed under the MIT License. See LICENSE in the      */
+/* project root for license information.                   */
+/***********************************************************/
+
+using System;
 using System.Reflection;
 using De.Markellus.Njage.NetInternals;
 
